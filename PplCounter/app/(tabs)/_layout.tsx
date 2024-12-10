@@ -19,21 +19,21 @@ export default function TabLayout() {
 
           return <Ionicons name={iconName} size={size} color={color} />;
         },
-        tabBarActiveTintColor: "#BB86FC", // Light purple for active tab
-        tabBarInactiveTintColor: "#666", // Muted gray for inactive tab
+        tabBarActiveTintColor: "#BB86FC", 
+        tabBarInactiveTintColor: "#666", 
         tabBarStyle: {
-          backgroundColor: "#121212", // Dark background for tab bar
-          borderTopWidth: 0, // Remove tab bar border
+          backgroundColor: "#121212", 
+          borderTopWidth: 0, 
         },
         headerStyle: {
-          backgroundColor: "#6200EE", // Primary color for header background
+          backgroundColor: "#6200EE", 
         },
-        headerTintColor: "#FFF", // White text for header
+        headerTintColor: "#FFF", 
         headerTitleStyle: {
           fontWeight: "bold",
-          fontSize: 18, // Slightly larger header font
+          fontSize: 18, 
         },
-        headerTitleAlign: "center", // Center-align header title
+        headerTitleAlign: "center", 
       })}
     >
       <Tabs.Screen name="index" options={{ title: "Home" }} />
