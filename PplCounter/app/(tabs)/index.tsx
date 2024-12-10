@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
   },
   overlay: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: "rgba(0,0,0,0.5)", // Dark overlay for text readability
+    backgroundColor: "rgba(0,0,0,0.5)", 
   },
   container: {
     flex: 1,
@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
   tagline: {
     fontSize: 24,
     fontStyle: "italic",
-    color: "#FFF", // Golden color for emphasis
+    color: "#FFF", 
     textAlign: "center",
     marginBottom: 20,
   },
