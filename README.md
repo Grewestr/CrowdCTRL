@@ -92,7 +92,7 @@
 Contributions are welcome! Feel free to fork the repository, create issues, or submit pull requests. For major changes, please open an issue to discuss your ideas.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available for contribution.
 
 ## Contact
 For any questions or suggestions, please reach out via the [GitHub repository](https://github.com/Grewestr/CrowdCTRL) or email at `gp0569@wayne.edu`.
