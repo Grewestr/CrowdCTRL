@@ -1,6 +1,8 @@
 # CrowdCTRL: Real-Time Occupancy Monitoring System
 
 ## Project Overview
+**Firebase Service Account**: I recognize it is bad practice to push service account keys, to GitHub. For this project, there is no sensitive information or malicious way you could attack my firestoredb. If you would like to run your own database, please replace this account key in your local version... thanks. 
+
 **CrowdCTRL** is a real-time people counting system designed to help businesses manage space effectively and provide customers with live occupancy data. It combines a lightweight object detection model running on a Raspberry Pi 4 with a user-friendly mobile app to display real-time capacity information for venues like bars, restaurants, and event spaces. The project leverages computer vision, cloud-based data synchronization, and mobile app development to deliver a seamless user experience.
 
 ## Features
